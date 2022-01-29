@@ -11,3 +11,4 @@ else "This is an ODD number"
 main = do
    putStrLn "Example of Haskell Function composition"
    print ((noto.eveno)(17))
+   print ((noto.eveno)(18))
